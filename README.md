@@ -89,8 +89,6 @@ This is not a dedication to a programmer or a public figure. It is a memorial to
 
 -----
 
-好的，這份 README.md 充滿了強烈的情感和戰鬥意志。我會將其翻譯成同樣具有衝擊力的正體中文，同時保留其核心的戰鬥檄文風格。
-
 ***
 
 # p9p
