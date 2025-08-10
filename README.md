@@ -1,7 +1,12 @@
-# # p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal
-Pipeline 9 Platform — the open-source automation beast that puts n8n straight into the garbage, free forever — I stake my life on it.
+# p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal
+Pipeline 9 Platform – the open-source automation beast that puts n8n straight into the garbage, free forever – I stake my life on it.
 
-# p9p
+## 🚀 Quick Access
+- 📜 [Contributing Guide](./CONTRIBUTING.md)
+- 🗺️ [Roadmap](./docs/roadmap.md)
+- 🎯 [WAR PLAN Issue](https://github.com/Mirecyn/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/issues/2)
+
+## p9p
 
 ### Pipeline 9 Platform — the open-source automation beast that puts n8n straight into the garbage, free forever — I stake my life on it.
 
