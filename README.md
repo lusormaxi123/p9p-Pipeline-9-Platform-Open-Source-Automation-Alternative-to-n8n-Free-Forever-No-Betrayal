@@ -78,6 +78,15 @@ This is not my project. It is **our** project. And let me be absolutely clear: i
 
 ***
 
+## Mission Workflow
+1. Intel Gathering 🕵️ — Collect and analyze community needs, competitor weaknesses, and feature priorities.
+2. Mission Deployment 💻 — Begin development with open-source principles, ensuring transparency and collaboration.
+3. Field Test 🎯 — Deploy prototypes for community testing, gather bug reports and improvement suggestions.
+4. Debrief 📝 — Review mission results, adapt strategy based on intel and feedback.
+5. Full Deployment 🚀 — Launch stable release with full feature set, ready for community adoption.
+
+***
+
 ## The Single Request
 
 My only request: wherever this project’s source code or GUI appears, the words “In memory of Ms. Wen” must be clearly displayed. The meaning of this tribute is personal and will remain unexplained — but it stands as a constant reminder of trust, integrity, and the values this project will never betray.
